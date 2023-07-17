@@ -74,6 +74,6 @@ int main() {
 // 2. Binary Search , array 
 // 3. stack menggunakan (LIFO) Last In First Out mengambil data diakhir dan insert yang terakhir yang akan dihapus, ada pop dan push
 //	  Queue menggunaka (FIFO) First In First Out  menggunakan circular linear insert element di rear end dan delete front end queue
-// 4. kiata meneggunakan algoritma stack saat ingin membuat program UNDO list word document, evaluating expressions, impelementing function calls
+// 4. kita meneggunakan algoritma stack saat ingin membuat program UNDO list word document, evaluating expressions, impelementing function calls
 // 5. a. kedalamannya 5
 //	  b. Preorder Traversal : 25, 20, 10, 5, 1, 22, 12, 8, 15, 36, 30, 28, 40, 38, 48, 45, 50
